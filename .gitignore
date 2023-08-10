@@ -1,0 +1,14 @@
+.vscode
+
+content
+out
+out.*
+
+__pycache__
+*.pyc
+.env
+
+*.blend1
+
+.ninja_log
+build.ninja
